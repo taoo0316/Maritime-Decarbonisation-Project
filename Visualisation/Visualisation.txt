@@ -1,1 +1,1 @@
-
+This folder contains visualisations created for the project and the code used.
